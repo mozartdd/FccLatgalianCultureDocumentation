@@ -26,6 +26,10 @@ a {
     padding-right: 10px;
 }
 
+a:hover {
+    color: gray;
+}
+
 #left {
     min-width: 300px;
     max-width: 400px; 
